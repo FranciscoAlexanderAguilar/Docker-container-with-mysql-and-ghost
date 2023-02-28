@@ -1,6 +1,6 @@
 # Docker-container-with-mysql-and-ghost
 
-Description Build a blogging platform running for low traffic, in this case we are using GHOST running as Docker container with MySQL database backend.
+Description: Build a blogging platform running for low traffic, in this case we are using GHOST running as Docker container with MySQL database backend.
 
 Docker
 MySQL
